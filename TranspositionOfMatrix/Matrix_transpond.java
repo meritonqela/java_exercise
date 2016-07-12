@@ -1,6 +1,4 @@
-/**
- * Created by OK on 7/10/2016.
- */
+
 public class Matrix_transpond {
     public static void main(String [] args){
 
