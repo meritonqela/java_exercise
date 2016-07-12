@@ -1,4 +1,3 @@
-package com.company;
 import java.awt.*;
 import javax.swing.*;
 import java.text.*;
