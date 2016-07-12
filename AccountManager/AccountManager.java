@@ -1,4 +1,3 @@
-package com.company;
 import javax.swing.*;
 /** AccountManager , start the application for managing accounts */
 public class AccountManager
