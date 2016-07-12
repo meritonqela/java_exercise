@@ -1,4 +1,3 @@
-package com.company;
 import javax.swing.*;
 /** BankAccount manages a single bank account */
 public class BankAccount
