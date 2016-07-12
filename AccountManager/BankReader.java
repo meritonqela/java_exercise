@@ -1,4 +1,3 @@
-package com.company;
 import javax.swing.*;
 /** BankReader reads bank transactions from the user */
 public class BankReader
