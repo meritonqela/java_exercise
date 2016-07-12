@@ -1,5 +1,3 @@
-package com.company;
-
 import javax.swing.*;
 /** AccountController maintains the balance on a bank account. */
 public class AccountController
