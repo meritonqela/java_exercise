@@ -1,4 +1,3 @@
-package com.company;
 import javax.swing.*;
 
 /** Math ; has some methods for math calculate; suma, product, factorial, sinus and cosinus!
